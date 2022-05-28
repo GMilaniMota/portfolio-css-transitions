@@ -1,2 +1,1 @@
-# portfolio-css-transitions
-Portfólio usando HTML e CSS Transitions
+# Portfólio usando HTML e CSS Transitions
