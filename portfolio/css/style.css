@@ -12,7 +12,7 @@ body {
 .header-wrapper {
     height: 100vh;
     width: 100%;
-    background: linear-gradient(-45deg, #5f045f, #8509B5, #47009E, #2809B5);
+    background: linear-gradient(-45deg, #310031, #5f0981, #2c0061, #190572);
     background-size: 400% 400%;
     display: flex;
     flex-direction: column;
@@ -229,11 +229,13 @@ a:hover {
 
 .card-text {
     width: 40%;
+    padding: 1rem;
     letter-spacing: 1px;
     font-weight: bold;
     font-size: 18px;
     text-align: justify;
     color: #4e4e4e;
+    background-color: white;
 }
 
 .card-wrapper {
@@ -303,7 +305,7 @@ a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #5f045f;
+    background-color: #5f0981;
 }
 
 /* RESPONSIVO */
